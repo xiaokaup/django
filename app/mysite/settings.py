@@ -27,9 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-DEBUG = False
+# DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+# ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
